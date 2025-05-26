@@ -22,9 +22,9 @@ To write a python program to implement pattern matching on the given string usin
 ## Program:
 Program to implement the Pattern Matching.
 
-Developed by: Lokesh N
+ Developed by: Marella Dharanesh
 
-Register Number: 212222100023
+ Register Number: 212222240062
 
 ```
 def BF(s1,s2):
